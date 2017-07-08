@@ -1,0 +1,31 @@
+body{
+  background: black;
+  text-align: center;
+}
+
+h1{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.theLink{
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+h2{
+  fontfamily: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.comment{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
